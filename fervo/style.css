@@ -59,8 +59,6 @@ section > h2 {
     padding: 0;
 }
 
-section > .players {}
-
 section > .players > .player {
     display: inline-block;
     width: 20%;
@@ -90,7 +88,7 @@ section > .players > .player > .title {
 
 footer {
     max-width: 600px;
-    margin: .5rem auto;
+    margin: .5rem auto 0;
     padding: .5rem 1rem;
     background-color: rgba(255, 255, 255, .25);
 }
